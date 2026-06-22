@@ -213,7 +213,6 @@ The analysis revealed that UK train rides are generally performing well, with mo
 By using data to understand when passengers travel, what tickets they buy, which routes are busiest, and what causes disruptions, rail operators can make better decisions that improve both revenue performance and passenger experience.
 
 ---
-
 ## Author
 
 **Uchechukwu Eze**
