@@ -1,9 +1,8 @@
 
 <img width="2502" height="1059" alt="image16" src="https://github.com/user-attachments/assets/1cf51ee5-f812-4c7e-b8f8-690308806fa7" />
 
-# Rail Revenue Intelligence Analyzing UK Train Ticket Demand and Pricing
-This project analyzes mock UK National Rail ticket data from January to April 2024 to uncover patterns in train ticket demand, pricing behavior, route performance, payment methods, delays, cancellations, and peak travel activity.
 # Rail Revenue Intelligence: Analyzing UK Train Ticket Demand and Pricing
+This project analyzes mock UK National Rail ticket data from January to April 2024 to uncover patterns in train ticket demand, pricing behavior, route performance, payment methods, delays, cancellations, and peak travel activity.
 
 ## Project Overview
 
