@@ -1,7 +1,7 @@
 
 <img width="2502" height="1059" alt="image16" src="https://github.com/user-attachments/assets/1cf51ee5-f812-4c7e-b8f8-690308806fa7" />
 
-# Rail-Revenue-Intelligence-Analyzing-UK-Train-Ticket-Demand-and-Pricing
+# Rail Revenue Intelligence Analyzing UK Train Ticket Demand and Pricing
 This project analyzes mock UK National Rail ticket data from January to April 2024 to uncover patterns in train ticket demand, pricing behavior, route performance, payment methods, delays, cancellations, and peak travel activity.
 # Rail Revenue Intelligence: Analyzing UK Train Ticket Demand and Pricing
 
@@ -147,7 +147,6 @@ Demand remains high between **6 AM and 8 AM**, drops after 9 AM, and rises again
 <img width="1386" height="1059" alt="image12" src="https://github.com/user-attachments/assets/2d526fd1-c097-479b-a477-0d5daa53cbbe" />
 <img width="1415" height="1059" alt="image11" src="https://github.com/user-attachments/assets/32490580-7d53-4a7c-8406-0cf9abe3a376" />
 
-![Uploading image12.png…]()
 
 ---
 
